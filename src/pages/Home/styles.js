@@ -74,6 +74,15 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     backgroundColor: '#ddd',
   },
+  businessAnalyticsChartWithData: {
+    backgroundColor: 'transparent',
+  },
+  businessAnalyticsChartWithoutData: {
+    backgroundColor: '#f0f0f0',
+    borderRadius: 8,
+    justifyContent: 'center',
+  },
+
   comparisonButtonContainer: {
     alignItems: 'center',
     justifyContent: 'center',
