@@ -25,7 +25,6 @@ export const yourBusinessData = [
   },
 ];
 
-
 export const yourCompetitorData = [
   {
     value: 3.75,
@@ -52,3 +51,5 @@ export const yourCompetitorData = [
     },
   },
 ];
+
+export const productReportData = [150, 450, 50, 500, 700, 200, 300];
